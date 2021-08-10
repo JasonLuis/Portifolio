@@ -13,3 +13,8 @@ export default {
   },
 };
 </script>
+<style>
+main {
+  background-image: url('~/ui/core/assets/background3.svg');
+}
+</style>
